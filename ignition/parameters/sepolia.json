@@ -1,0 +1,7 @@
+{
+  "BeemerModule": {
+    "owner": "0x5bf76d385756f3C745217026796684655287C603",
+    "positionManager": "0x5bE4DAa6982C69aD20A57F1e68cBcA3D37de6207",
+    "swapRouter": "0xE592427A0AEce92De3Edee1F18E0157C05861564"
+  }
+}

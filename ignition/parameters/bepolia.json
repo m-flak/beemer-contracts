@@ -1,0 +1,10 @@
+{
+  "BeemerModule": {
+    "owner": "0x5bf76d385756f3C745217026796684655287C603",
+    "positionManager": "0xa73C6F1FeC76D5487dC30bdB8f11d1F390394b48",
+    "factory": "0xD84CBf0B02636E7f53dB9E5e45A616E05d710990",
+    "wrappedNative": "0x6969696969696969696969696969696969696969",
+    "swapRouter": "0x644C8D6E501f7C994B74F5ceA96abe65d0BA662B",
+    "targetRatePerLockable": 1000000000000
+  }
+}
